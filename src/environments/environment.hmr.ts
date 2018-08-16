@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  hmr: false,
+  hmr: true,
   apiEndpoint: 'http://localhost:7000',
   wsEndpoint: 'ws://localhost:7000'
 };
